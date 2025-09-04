@@ -15,7 +15,7 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "Crypto Fund Manager",
     image: "https://avatars.githubusercontent.com/u/2345678?v=4",
-    content: "CryptoTrade's institutional-grade tools have transformed our trading strategy. The API integration and automated features have saved us countless hours."
+    content: "Cryplax's institutional-grade tools have transformed our trading strategy. The API integration and automated features have saved us countless hours."
   },
   {
     name: "David Wilson",
@@ -27,7 +27,7 @@ const testimonials = [
     name: "Emily Zhang",
     role: "DeFi Developer",
     image: "https://avatars.githubusercontent.com/u/4567890?v=4",
-    content: "We've seen remarkable improvements in our trading efficiency since switching to CryptoTrade. The smart order routing and liquidity aggregation are particularly impressive."
+    content: "We've seen remarkable improvements in our trading efficiency since switching to Cryplax. The smart order routing and liquidity aggregation are particularly impressive."
   },
   {
     name: "James Rodriguez",
@@ -56,7 +56,7 @@ const TestimonialsSection = () => {
         >
           <h2 className="text-5xl font-normal mb-4">Trusted by Traders</h2>
           <p className="text-muted-foreground text-lg">
-            Join thousands of satisfied traders on CryptoTrade
+            Join thousands of satisfied traders on Cryplax
           </p>
         </motion.div>
 
